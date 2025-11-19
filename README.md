@@ -14,8 +14,6 @@ Skills:  REACT / JS / HTML / CSS
 - 💬 Ask me about Full-Stack (React, Node, Express, MongoDB). 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MusratJahan408)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/musrat-jahan-208b38317/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/musratjahan.eva.18) 
 
 
